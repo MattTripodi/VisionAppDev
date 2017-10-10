@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CameraVC.swift
 //  VisonAppDev
 //
 //  Created by Matt Tripodi on 10/10/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CameraVC: UIViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
